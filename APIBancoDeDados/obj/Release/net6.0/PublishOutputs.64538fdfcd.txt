@@ -1,0 +1,17 @@
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\APIBancoDeDados.exe
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\APIBancoDeDados.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\APIBancoDeDados.deps.json
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\APIBancoDeDados.runtimeconfig.json
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\APIBancoDeDados.pdb
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Claud\Documents\VisualStudioAtividades\APIBancoDeDados\APIBancoDeDados\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
